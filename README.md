@@ -6,8 +6,11 @@ A collection of official messages, speeches, and communications from Andhra Prad
 
 ### Vangalapudi Anitha – Home Minister, Andhra Pradesh
 
-- **[Women & Girl Child Wishes (October 2026)](messages/anitha-vangalapudi-women-wishes-2026.md)**  
-  Heartfelt wishes on the occasion of Dasara-Navaratri and Girl Child Day observances. Focuses on education, safety, opportunities, and empowerment of girl children.
+- **[Women & Girl Child Wishes – Beautiful HTML version](messages/anitha-vangalapudi-women-wishes-2026.html)**  
+  Styled HTML page with author card (modelled after sample layout). Includes original Telugu text + English summary.
+
+- **[Markdown version](messages/anitha-vangalapudi-women-wishes-2026.md)**  
+  Plain text / Markdown version of the same message.
 
 ---
 
